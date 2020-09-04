@@ -1,0 +1,1 @@
+Issue: https://github.com/restsharp/RestSharp/issues/1491
